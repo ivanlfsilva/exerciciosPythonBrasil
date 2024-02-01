@@ -2,3 +2,7 @@
 
 # o comando print em python exibe na tela o que for escrito estre as aspas ""
 print("Olá mundo!")
+
+
+
+                                             
