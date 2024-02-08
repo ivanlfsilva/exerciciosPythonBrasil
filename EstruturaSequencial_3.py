@@ -8,4 +8,6 @@ num1 = input()
 print("Digite o segundo número")
 num2 = input()
 
-print("A soma dos números é : " , int(num1) + int(num2))
+resultado = int(num1) + int(num2)
+
+print("A soma dos números é : " , resultado)
